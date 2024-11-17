@@ -1,4 +1,4 @@
-### Introduction of React
+# Introduction of React
 [React](https://reactjs.org/) is a JavaScript library for building user interfaces, particularly single-page applications where you need a fast, interactive user experience. It allows developers to create large web applications that can update and render efficiently in response to data changes.
 
 **Use Cases:**
